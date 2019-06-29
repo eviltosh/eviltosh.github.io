@@ -1,2 +1,2 @@
 # eviltosh.github.io
-# programming lottery numbers using python3
+# Using random and the while loop to generate lottery numbers using Python3 
